@@ -3,7 +3,7 @@
 - [LinkedIn - https://linkedin.com/in/ibakirov]
 
 ### GitHub Stats
-![GitHub Stats] (https://github-readme-stats.vercel.app/api?username=ibakirov&show_icons=true&theme=dracula)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ibakirov&show_icons=true&theme=dracula)
 
 <!--
 ## Achievements
