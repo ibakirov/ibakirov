@@ -29,7 +29,13 @@
 **IDEs:**
 
 <code><a href="https://code.visualstudio.com" target="_blank"><img height="40" src="https://upload.wikimedia.org/wikipedia/commons/9/9a/Visual_Studio_Code_1.35_icon.svg"></a></code>
+<code><a href="https://www.jetbrains.com" target="_blank"><img height="40" src="https://resources.jetbrains.com/storage/products/company/brand/logos/IntelliJ_IDEA_icon.svg"></a></code>
+<code><a href="https://www.jetbrains.com" target="_blank"><img height="40" src="https://resources.jetbrains.com/storage/products/company/brand/logos/PhpStorm_icon.svg"></a></code>
+<code><a href="https://www.jetbrains.com" target="_blank"><img height="40" src="https://resources.jetbrains.com/storage/products/company/brand/logos/PyCharm_icon.svg"></a></code>
 <code><a href="https://www.eclipse.org/ide" target="_blank"><img height="40" src="https://www.eclipse.org/org/artwork/images/eclipse_ide_logo.png"></a></code>
+<code><a href="https://netbeans.apache.org" target="_blank"><img height="40" src="https://upload.wikimedia.org/wikipedia/commons/9/98/Apache_NetBeans_Logo.svg"></a></code>
+<code><a href="https://atom.io" target="_blank"><img height="40" src="https://upload.wikimedia.org/wikipedia/commons/e/eb/Atom_icon.svg"></a></code>
+<code><a href="https://notepad-plus-plus.org" target="_blank"><img height="40" src="https://notepad-plus-plus.org/images/logo.svg"></a></code>
 
 **Tools:**
 
