@@ -28,6 +28,8 @@
 
 **IDEs:**
 
+<code><a href="https://www.eclipse.org/ide" target="_blank"><img height="40" src="https://www.eclipse.org/org/artwork/images/eclipse_ide_logo.png"></a></code>
+
 **Tools:**
 
 <code><a href="https://github.com/topics/docker" target="_blank"><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/docker/docker.png"></a></code>
