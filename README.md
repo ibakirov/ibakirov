@@ -28,6 +28,7 @@
 
 **IDEs:**
 
+<code><a href="https://code.visualstudio.com" target="_blank"><img height="40" src="https://upload.wikimedia.org/wikipedia/commons/9/9a/Visual_Studio_Code_1.35_icon.svg"></a></code>
 <code><a href="https://www.eclipse.org/ide" target="_blank"><img height="40" src="https://www.eclipse.org/org/artwork/images/eclipse_ide_logo.png"></a></code>
 
 **Tools:**
