@@ -1,6 +1,6 @@
 ## Me on the Internet
 
-- [LinkedIn - https://linkedin.com/in/ibakirov]
+<a href="https://linkedin.com/in/ibakirov" target="_blank"><img height="30" src="https://upload.wikimedia.org/wikipedia/commons/0/01/LinkedIn_Logo.svg"></a>
 
 ### GitHub Stats
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ibakirov&show_icons=true&count_private=true&include_all_commits=true&disable_animations=true&theme=dracula)
