@@ -1,6 +1,9 @@
-## Me on the Internet
+## 🤝🏻 &nbsp;Connect with Me:
 
-<a href="https://linkedin.com/in/ibakirov" target="_blank"><img height="30" src="https://upload.wikimedia.org/wikipedia/commons/0/01/LinkedIn_Logo.svg"></a>
+<p align="left">
+<a href="https://www.linkedin.com/in/ibakirov" target="_blank"><img height="30" src="https://img.shields.io/badge/-ibakirov-0077B5?style=flat-square&logo=Linkedin&logoColor=white"></a>
+<a href="mailto:i.bakirov@gmail.com" target="_blank"><img height="30" src="https://img.shields.io/badge/-i.bakirov@gmail.com-D14836?style=flat-square&logo=Gmail&logoColor=white"></a>
+</p>
 
 ### GitHub Stats
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ibakirov&show_icons=true&count_private=true&include_all_commits=true&disable_animations=true&theme=dracula)
