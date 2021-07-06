@@ -7,6 +7,7 @@
 
 ### GitHub Stats
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ibakirov&show_icons=true&count_private=true&include_all_commits=true&disable_animations=true&theme=dracula)
+
 ![Metrics](https://github.com/ibakirov/ibakirov/blob/main/github-metrics.svg)
 
 **_I speak, use and work with:_**
