@@ -13,9 +13,9 @@
 **_I speak, use and work with:_**
 
 
-<a href="https://github.com/topics/php" target="_blank"><img height="40" src="https://raw.githubusercontent.com/github/explore/ccc16358ac4530c6a69b1b80c7223cd2744dea83/topics/php/php.png"></a>
-<a href="https://github.com/topics/java" target="_blank"><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png"></a>
-<a href="https://github.com/topics/python" target="_blank"><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></a>
+<a href="https://github.com/topics/php" target="_blank"><img height="60" src="https://raw.githubusercontent.com/github/explore/ccc16358ac4530c6a69b1b80c7223cd2744dea83/topics/php/php.png"></a>
+<a href="https://github.com/topics/java" target="_blank"><img height="60" src="https://upload.wikimedia.org/wikipedia/en/3/30/Java_programming_language_logo.svg"></a>
+<a href="https://github.com/topics/python" target="_blank"><img height="60" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></a>
 
 **Frameworks:**
 
