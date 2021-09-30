@@ -26,8 +26,10 @@
 
 **Databases:**
 
-<a href="https://github.com/topics/postgresql" target="_blank"><img height="80" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/postgresql/postgresql.png"></a>
+<a href="https://github.com/topics/postgresql" target="_blank"><img height="60" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/postgresql/postgresql.png"></a>
+<a href="https://mariadb.org" target="_blank"><img height="40" src="https://upload.wikimedia.org/wikipedia/commons/c/ca/MariaDB_colour_logo.svg"></a>
 <a href="https://github.com/topics/mysql" target="_blank"><img height="80" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png"></a>
+<a href="https://firebirdsql.org" target="_blank"><img height="40" src="https://firebirdsql.org/file/about/firebird-logo-300.png"></a>
 <a href="https://github.com/topics/mongodb" target="_blank"><img height="80" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png"></a>
 <a href="https://github.com/topics/redis" target="_blank"><img height="80" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/redis/redis.png"></a>
 
