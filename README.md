@@ -13,13 +13,16 @@
 **_I speak, use and work with:_**
 
 
-<a href="https://github.com/topics/php" target="_blank"><img height="80" src="https://raw.githubusercontent.com/github/explore/ccc16358ac4530c6a69b1b80c7223cd2744dea83/topics/php/php.png"></a>
 <a href="https://github.com/topics/java" target="_blank"><img height="80" src="https://upload.wikimedia.org/wikipedia/en/3/30/Java_programming_language_logo.svg"></a>
+<a href="https://github.com/topics/php" target="_blank"><img height="80" src="https://raw.githubusercontent.com/github/explore/ccc16358ac4530c6a69b1b80c7223cd2744dea83/topics/php/php.png"></a>
 <a href="https://github.com/topics/python" target="_blank"><img height="80" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></a>
 
 **Frameworks:**
 
 <a href="https://github.com/topics/spring-boot" target="_blank"><img height="60" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/spring-boot/spring-boot.png"></a>
+<a href="https://grails.org" target="_blank"><img height="40" src="https://upload.wikimedia.org/wikipedia/commons/9/93/Grails_logo.png"></a>
+<a href="https://micronaut.io" target="_blank"><img height="60" src="https://objectcomputing.com/files/2616/2275/4406/micronaut_stacked_black.svg"></a>
+<a href="https://quarkus.io" target="_blank"><img height="40" src="https://upload.wikimedia.org/wikipedia/en/8/83/Quarkus-logo.svg"></a>
 <a href="https://github.com/topics/laravel" target="_blank"><img height="60" src="https://raw.githubusercontent.com/github/explore/56a826d05cf762b2b50ecbe7d492a839b04f3fbf/topics/laravel/laravel.png"></a>
 <a href="https://github.com/topics/flask" target="_blank"><img height="80" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/flask/flask.png"></a>
 <a href="https://github.com/topics/django" target="_blank"><img height="80" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/django/django.png"></a>
