@@ -48,7 +48,6 @@
 <a href="https://www.jetbrains.com" target="_blank"><img height="40" src="https://resources.jetbrains.com/storage/products/company/brand/logos/PhpStorm_icon.svg" alt="PhpStorm" title="PhpStorm"></a>
 <a href="https://www.jetbrains.com" target="_blank"><img height="40" src="https://resources.jetbrains.com/storage/products/company/brand/logos/PyCharm_icon.svg" alt="PyCharm" title="PyCharm"></a>
 <a href="https://www.eclipse.org/ide" target="_blank"><img height="40" src="https://www.eclipse.org/org/artwork/images/eclipse_ide_logo.png" alt="Eclipse" title="Eclipse"></a>
-<a href="https://netbeans.apache.org" target="_blank"><img height="40" src="https://upload.wikimedia.org/wikipedia/commons/9/98/Apache_NetBeans_Logo.svg" alt="NetBeans" title="NetBeans"></a>
 <a href="https://github.com/topics/atom" target="_blank"><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/atom/atom.png" alt="Atom" title="Atom"></a>
 <a href="https://notepad-plus-plus.org" target="_blank"><img height="40" src="https://notepad-plus-plus.org/images/logo.svg" alt="Notepad++" title="Notepad++"></a>
 
