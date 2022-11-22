@@ -5,6 +5,8 @@
 <a href="mailto:y10929zkj@mozmail.com" target="_blank"><img height="30" src="https://img.shields.io/badge/-y10929zkj@mozmail.com-D14836?style=flat-square&logo=Gmail&logoColor=white"></a>
 </p>
 
+<img height="314" src="https://crd.so/i/ibakirov?removeLink">
+
 ### GitHub Stats
 ![](https://komarev.com/ghpvc/?username=ibakirov&style=for-the-badge)
 
