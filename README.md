@@ -16,10 +16,19 @@
 
 **_I speak, use and work with:_**
 
-
+<!--
 <a href="https://github.com/topics/java" target="_blank"><img height="80" src="https://upload.wikimedia.org/wikipedia/en/3/30/Java_programming_language_logo.svg" alt="Java" title="Java"></a>
+-->
+<div>
+    <a href="https://github.com/topics/java" target="_blank"><img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="80" height="80"/></a>
+    <a href="https://github.com/topics/php" target="_blank"><img src="https://github.com/devicons/devicon/blob/master/icons/php/php-plain.svg" title="PHP" alt="PHP" width="80" height="80"/></a>
+    <a href="https://github.com/topics/python" target="_blank"><img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" alt="Python" width="80" height="80"/></a>&nbsp;
+</div>
+
+<!--
 <a href="https://github.com/topics/php" target="_blank"><img height="80" src="https://raw.githubusercontent.com/github/explore/ccc16358ac4530c6a69b1b80c7223cd2744dea83/topics/php/php.png" alt="PHP" title="PHP"></a>
 <a href="https://github.com/topics/python" target="_blank"><img height="80" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" alt="Python" title="Python"></a>
+-->
 
 **Frameworks:**
 
