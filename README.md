@@ -10,7 +10,7 @@
 ### GitHub Stats
 ![](https://komarev.com/ghpvc/?username=ibakirov&style=for-the-badge)
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ibakirov&show_icons=true&count_private=true&include_all_commits=true&disable_animations=true&theme=dracula)
+![GitHub Stats](https://github-readme-stats-ibakirov.vercel.app/api?username=ibakirov&show_icons=true&count_private=true&include_all_commits=true&disable_animations=true&theme=dracula)
 
 ![Metrics](https://github.com/ibakirov/ibakirov/blob/main/github-metrics.svg)
 
